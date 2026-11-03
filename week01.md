@@ -1,0 +1,1 @@
+Red team attact it own system with peimission to see any weekness before criminals do
