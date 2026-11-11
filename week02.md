@@ -25,4 +25,4 @@ this is done to perform DNS hhijacking. This leads the computer to an attacker f
 #lookalike names for mtn.com.gh
 rntn.com.gh
 mtr.com.gh
-ntm.com.gh
+ntm.com.gh 
