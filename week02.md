@@ -18,3 +18,11 @@ ping google.com
 time: 20 - 40 ms
 TTL: 116
 Packets lost: O% loss
+
+#Why malware might add a line like 6.6.6.6 mtn.com.gh.
+this is done to perform DNS hhijacking. This leads the computer to an attacker fake server 
+
+#lookalike names for mtn.com.gh
+rntn.com.gh
+mtr.com.gh
+ntm.com.gh
