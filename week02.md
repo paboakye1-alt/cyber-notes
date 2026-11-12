@@ -26,3 +26,15 @@ this is done to perform DNS hhijacking. This leads the computer to an attacker f
 rntn.com.gh
 mtr.com.gh
 ntm.com.gh 
+
+#TCP VS UDP
+TCP ensures that every messege sent is accurate and it is in order
+UDP messege is sent once without chhecking
+
+#app 
+MTN momo app
+entry of pin must arrive in direct sequence
+eFootball
+cus football is direct and decisins can't be changed constantly
+
+30 hops
