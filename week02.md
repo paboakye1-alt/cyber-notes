@@ -38,3 +38,42 @@ eFootball
 cus football is direct and decisins can't be changed constantly
 
 30 hops
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC
+   Physical Address. . . . . . . . . : B0-FC-36-E0-01-F9
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::1501:595b:a084:1084%17(Preferred)
+   IPv4 Address. . . . . . . . . . . : 172.20.10.3(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.240
+   Lease Obtained. . . . . . . . . . : Thursday, November 12, 2026 11:50:45 AM
+   Lease Expires . . . . . . . . . . : Thursday, November 12, 2026 12:50:48 PM
+   Default Gateway . . . . . . . . . : 172.20.10.1
+   DHCP Server . . . . . . . . . . . : 172.20.10.1
+   DHCPv6 IAID . . . . . . . . . . . : 179371062
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-30-98-15-AB-E8-6A-64-51-3A-67
+   DNS Servers . . . . . . . . . . . : fe80::945c:9aff:fee6:e64%17
+                                       172.20.10.1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+
+Interface: 172.20.10.3 --- 0x11
+  Internet Address      Physical Address      Type
+  172.20.10.1           96-5c-9a-e6-0e-64     dynamic
+  172.20.10.15          ff-ff-ff-ff-ff-ff     static
+  224.0.0.22            01-00-5e-00-00-16     static
+  224.0.0.252           01-00-5e-00-00-fc     static
+  255.255.255.255       ff-ff-ff-ff-ff-ff     static
+
+
+Hexadecimal 	Binary (8-bit)  	Decimal
+(a) 3C	         0011 1100	             60
+(b) FF	         1111 1111	             255
+(c) 0A	         0000 1010	             10
+
+It assigns local IP addresses to a devices and forwards it internet traffic to it ISP.
+smart TVs
+Star topology
