@@ -77,3 +77,10 @@ Hexadecimal 	Binary (8-bit)  	Decimal
 It assigns local IP addresses to a devices and forwards it internet traffic to it ISP.
 smart TVs
 Star topology
+
+Step1: Getting Network Settings via DHCP
+Step 2: Translating the Website Name via DNS
+Step 3: Securing the Connection with TCP and HTTPS
+Step 4: Breaking the Request into Packets
+Step 5: Forwarding Traffic Across Routers
+Step 6: Receiving, Reassembling, and Displaying the Page
