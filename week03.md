@@ -1,0 +1,39 @@
+# week 3 notes
+## Day 1
+
+#OS's  Job
+security and Access control
+Device (I/O) Management 
+Memory Management
+File System Management Process Management
+
+ Link-local IPv6 Address . . . . . : fe80::1501:595b:a084:1084%17
+   IPv4 Address. . . . . . . . . . . : 172.20.10.4
+   Subnet Mask . . . . . . . . . . . : 255.255.255.240
+   Default Gateway . . . . . . . . . : 172.20.10.1
+fe80::945c:9aff:fee6:e64
+
+ 1     5 ms     7 ms     7 ms  172.20.10.1
+  2     *        *        *     Request timed out.
+  3     *        *        *     Request timed out.
+  4     *        *        *     Request timed out.
+  5   102 ms   114 ms    95 ms  10.208.225.18
+  6     *        *        *     Request timed out.
+  7   114 ms    95 ms   107 ms  196.201.61.221
+  8   116 ms    82 ms    93 ms  105.177.14.19
+  9    93 ms    93 ms   100 ms  142.250.174.118
+ 10    94 ms    96 ms    98 ms  142.250.209.225
+ 11    98 ms    91 ms    95 ms  172.253.176.237
+ 12    94 ms    97 ms    94 ms  8.8.8.8
+
+ Windows 11Pro
+Version
+21H2
+OS Build 22000.37
+
+Processor - AMD A6-9225 RADEON R4, 5 COMPUTE CORES 2C+3G      2.60 GHz
+RAM 8GB
+
+System Type - 64-bit operating system, x64-based processor
+
+Edition = Pro
