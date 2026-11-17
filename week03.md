@@ -37,3 +37,15 @@ RAM 8GB
 System Type - 64-bit operating system, x64-based processor
 
 Edition = Pro
+## Day 2
+* **C:\Windows\System32**: The core system directory storing essential Windows OS binaries, device drivers, and DLL files required to run the operating system.
+* **C:\Users\<you>**: The personal user profile directory that houses your personal folders (Desktop, Documents, Downloads) and user-specific files.
+* **AppData**: A hidden directory within your user profile where installed applications store their local settings, cached data, and configuration files.
+
+whoami
+desktop-9qce2u\pablo
+Administrator
+Standard Account is safer because it helps the user to have full control over his daily routes
+
+The number is 4684
+Delecting unknwon files is dangerous because it can instantly corrupt the operating system
