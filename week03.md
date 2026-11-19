@@ -49,3 +49,30 @@ Standard Account is safer because it helps the user to have full control over hi
 
 The number is 4684
 Delecting unknwon files is dangerous because it can instantly corrupt the operating system
+
+#Day 3
+fake file name and their real type 
+Exam_Timetable.docx.exe - (.exe)
+Receipt_August2026.pdf.scr (.scr)
+Photo_Album.jpg.bat - (.bat)
+
+### Lab Exercise: File Extensions vs. File Signatures (`Format-Hex`)
+
+* **Commands Executed:**
+  ```powershell
+  cd ~
+  mkdir filelab
+  cd filelab
+  Set-Content note.txt "Akwaaba"
+  Format-Hex note.txt
+  Copy-Item note.txt note.jpg
+  Format-Hex note.jpg
+
+### Same bytes, new name
+* **(a) First row of `Format-Hex note.txt`:**
+  ```text
+  00000000   41 6B 77 61 61 62 61 0D 0A                       Akwaaba..
+
+  00000000   41 6B 77 61 61 62 61 0D 0A                       Akwaaba..
+
+  Renaming the file did not any change a single byte indicating that file extensions merely labels
