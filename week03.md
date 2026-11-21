@@ -76,3 +76,19 @@ Photo_Album.jpg.bat - (.bat)
   00000000   41 6B 77 61 61 62 61 0D 0A                       Akwaaba..
 
   Renaming the file did not any change a single byte indicating that file extensions merely labels
+Because Even a tiny single-character change completely alters the file's hash
+
+A file name starting with 4D 5A is a windows execuatable
+
+svchost.exe (lowercase s-v-c-h-o-s-t-.-e-x-e, with no extra spaces, numbers, or swapped letters).
+
+OS Name	Microsoft Windows 11 Pro
+Version	10.0.22000 Build 22000
+BIOS Mode	UEFI
+Secure Boot State	On
+If Secure Boot State is On, it matches the safe setting from the Week 1 fixes; if it is Off or Unsupported, it does not match and needs to be enabled in UEFI firmware.
+
+Startup apps (same slide): Task Manager (Ctrl + Shift + Esc) → Startup apps (Windows 10: the Startup tab). Write 3 apps with their Publisher and Status. If an app's name or publisher is new to you, write its name and what a search tells you about it. Change nothing.
+
+Google Chrome
+VS code
