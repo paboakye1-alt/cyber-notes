@@ -92,3 +92,14 @@ Startup apps (same slide): Task Manager (Ctrl + Shift + Esc) → Startup apps (W
 
 Google Chrome
 VS code
+
+#Day 5 notes
+Who posted it 
+Do i understand every command
+Does it weaken or bypass built-in security controls
+Is it relevant to my OS version
+
+Act 1038
+
+VirusTotal shows We currently don't have any comments that fit your search
+It is showing not found because it has seen the exact hash before
