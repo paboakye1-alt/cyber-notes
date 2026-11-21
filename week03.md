@@ -103,3 +103,11 @@ Act 1038
 
 VirusTotal shows We currently don't have any comments that fit your search
 It is showing not found because it has seen the exact hash before
+
+product Affected:The SMBv1 server component in Microsoft Windows.
+What an attacker could do: By sending specially crafted network packets to a reachable SMBv1 service
+In 2017 it was used to spread automatically across unpatched Windows systems over networks and encrypt victims' files for ransom.
+
+# Day 6
+Microsoft Edge Document - (.exe)
+25 50 44 46 = %PDF
