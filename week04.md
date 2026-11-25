@@ -9,3 +9,10 @@ Use a standard account for daily work if you can.
  BIOS Mode UEFI
  Secure Boot State ON
  Up time - 2:22:03:39
+
+ #Day 2
+ whoami - pablo
+ pwd    -   /c/Users/pablo 
+ tilde stands for the current user's home directory.
+ /C/WINDOWS - NO
+ /C/WINDOWS and /c/Windows are not the same folder because Linux file paths are case-sensitive. 
