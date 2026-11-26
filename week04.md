@@ -26,3 +26,22 @@ ls -lh
   0 Nov  4  2021  AppData/
 -t                         sort by time, newest first; see --time
  -r, --reverse              reverse order while sorting
+
+## Day 4
+Starting directory (`cd ~/linuxlab`): `/c/Users/pablo/linuxlab`
+
+* **(a) `cd shop/receipts`, then `pwd`:**
+  * **Prediction:** `/c/Users/pablo/linuxlab/shop/receipts`
+  * **Actual `pwd`:** `/c/Users/pablo/linuxlab/shop/receipts`
+* **(b) `cd ..`, then `pwd`:**
+  * **Prediction:** `/c/Users/pablo/linuxlab/shop`
+  * **Actual `pwd`:** `/c/Users/pablo/linuxlab/shop`
+* **(c) `cd ../..`, then `pwd`:**
+  * **Prediction:** `/c/Users/pablo`
+  * **Actual `pwd`:** `/c/Users/pablo`
+* **(d) `cd -`, then `pwd`:**
+  * **Prediction:** `/c/Users/pablo/linuxlab/shop`
+  * **Actual `pwd`:** `/c/Users/pablo/linuxlab/shop`
+
+ failed to remove 'shop': No such file or directory
+because it only removes empty directories and will not delete a folder that still contains files.
