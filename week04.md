@@ -45,3 +45,16 @@ Starting directory (`cd ~/linuxlab`): `/c/Users/pablo/linuxlab`
 
  failed to remove 'shop': No such file or directory
 because it only removes empty directories and will not delete a folder that still contains files.
+
+# Day 5
+head -n 2 access.log
+08:01 login ama OK
+08:05 login kofi FAILED
+tail -n 1 access.log
+08:30 logout ama
+
+kofi failed three times in a row before logging in successfully at which could indicate either a legitimate user who initially mistyped their password
+
+access.log backup.log shop/
+access.log old.log shop/
+access.log shop/
